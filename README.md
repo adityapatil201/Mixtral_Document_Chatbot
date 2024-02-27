@@ -1,4 +1,4 @@
-# Mistral Document Chatbot
+# Mixtral Document Chatbot
 
 This is the document chatbot which uses the Mixtral8x7b LLM
 Deployed using streamlit
